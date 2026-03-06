@@ -55,11 +55,13 @@
 
 ## Project Structure
 
+```
 CompatPC-frontend
-┣ css
-┣ js
-┣ images
-┗ index.html
+ ┣ css
+ ┣ js
+ ┣ images
+ ┗ index.html
+```
 
 ---
 
